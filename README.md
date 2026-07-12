@@ -1,8 +1,6 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=java,js,bootstrap,html,css,nodejs,cs,mysql&perline=3"  />
- <br /> 
-<img width="500px"  src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,git,windows,linux"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=java,js,bootstrap,html,css,nodejs,cs,mysql,vscode,visualstudio,eclipse,git,windows,linux&perline=7"  />
 </p>
 <br />

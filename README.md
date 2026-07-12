@@ -6,3 +6,4 @@
 <img width="500px"  src="https://skillicons.dev/icons?i=java,cs,js,bootstrap,html,css,nodejs,mysql,vscode,visualstudio,eclipse,git,windows,linux&perline=7"  />
 </p>
 <br />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hashfx&theme=tokyonight&hide_border=true&ring=1EE2BF&fire=E25525)](https://git.io/streak-stats)

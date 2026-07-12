@@ -7,7 +7,7 @@
 </p>
 <br />
 
-## 📈 Github Profile Stats
+<h2 align="center">## 📈 Github Profile Stats</h2> 
 
 <p align="center">
     <a href="https://github.com/angelarreolasoto">
